@@ -1,0 +1,13 @@
+.c-logo {
+  display: block;
+  fill: #000;
+  width: 60vw;
+}
+
+.c-page {
+  align-items: center;
+  display: flex;
+  height: 90vh;
+  justify-content: center;
+  width: 100%;
+}
