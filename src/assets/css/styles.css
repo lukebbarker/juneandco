@@ -1,6 +1,10 @@
+body {
+  background: #000000;
+}
+
 .c-logo {
   display: block;
-  fill: #000;
+  fill: #ffffff;
   width: 60vw;
 }
 
